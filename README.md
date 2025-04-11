@@ -1,17 +1,11 @@
 # Eron
+
+
+Integrantes - Tiago e Natanael
+Objetivo - Pedir ao usuario 2 números e depois soma-los
+Etapas realizadas de cada menbro
 Atividade avaliativa do Eron
-programa {
-  funcao inicio() {
-    inteiro n1,n2,soma
 
-    escreva("escreva 2 numeros para serem somados")
-    leia(n1,n2)
-    
-    soma = n1 + n2
-    escreva ("Sua soma da: ", soma)
-
-    }
-}
 Tiago 
 Foi criado o repositorio "Eron",
 
@@ -46,3 +40,17 @@ Natanael
 
 Apos dar git pull consegui pegar as ições que foram realizadas por Tiago,tanto no Git Bash quanto no IDE para concluir nosso trabalho e verificar se tudo estava de acrodo,trabalho concluido visto que todas as ações necessarias foram realizadas.
 
+
+programa {
+  funcao inicio() {
+    inteiro n1,n2,soma
+
+    escreva("escreva 2 numeros para serem somados")
+    leia(n1,n2)
+    
+    soma = n1 + n2
+    escreva ("Sua soma da: ", soma)
+
+    }
+}
+Observações - Todos os commits foram realizados uma vez por integrante, respeitando a ordem e visando a integridade do codigo.
