@@ -6,6 +6,9 @@ programa {
 
     escreva("escreva 2 numeros para serem somados")
     leia(n1,n2)
+    
+    soma = n1 + n2
+    escreva ("Sua soma da: ", soma)
 
     }
 }
