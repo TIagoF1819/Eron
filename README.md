@@ -38,3 +38,6 @@ vincula com a versão remota
 
 Logo apos realizei uma parte do codigo de portugol onde era a intenção apenas pedir ao usuario 2 numeros para posteriormete somar-los
 
+Tiago :
+Fiz a parte da soma no scritp do Portugol utilizando o site portugol studios, verificando que o codigo deu certo dei git add. , git commit -m  e dei git push.
+
