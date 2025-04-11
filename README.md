@@ -16,7 +16,7 @@ Tiago
 Foi criado o repositorio "Eron",
 
 Natanael
-Realizado dentro do repositorio Os comandos:
+Realizado dentro do repositorio Os comandos de forma sequente abaixo,todos estes comandos foram ultilizados para desde o primeiro contato com inserir email até chegar no fim onde realizaria o git pull para puxar repositorio completo de meu colega.
 
 git config --global user.name "Seu Nome": Define o nome do usuário no Git
 • git config --global user.email "seuemail@example.com": Define o e-mail do usuário no Git
@@ -35,9 +35,14 @@ git config --global user.name "Seu Nome": Define o nome do usuário no Git
 • git commit -m "mensagem": Cria um commit com uma mensagem descritiva
 git push --set-upstream origin "nome-da-branch": Envia a branch para o GitHub e a
 vincula com a versão remota
+git pull -Para "pegar" as informações que estavam no git hub
 
 Logo apos realizei uma parte do codigo de portugol onde era a intenção apenas pedir ao usuario 2 numeros para posteriormete somar-los
 
 Tiago :
 Fiz a parte da soma no scritp do Portugol utilizando o site portugol studios, verificando que o codigo deu certo dei git add. , git commit -m  e dei git push.
+
+Natanael
+
+Apos dar git pull consegui pegar as ições que foram realizadas por Tiago,tanto no Git Bash quanto no IDE para concluir nosso trabalho e verificar se tudo estava de acrodo,trabalho concluido visto que todas as ações necessarias foram realizadas.
 
